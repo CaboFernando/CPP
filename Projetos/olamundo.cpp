@@ -54,5 +54,23 @@ int main()
         cout << "O sobrenome é: " << sobrenome << endl;
         cout << "O nome completo é: " << nomeCompleto << endl;
 
+    // Constantes
+        const double PI = 3.14159; // Declaração de uma constante sempre escrita em letras maiúsculas por convenção
+        double raio = 10;
+        double circunferencia = 2 * PI * raio;
+        //PI = 3.14; // Erro: não é possível modificar uma constante
+
+        const int VELOCIDADE_DA_LUZ = 299792458; // Velocidade da luz em metros por segundo
+
+        const int LARGURA = 1920;
+        const int ALTURA = 1080;
+
+        cout << "O valor de pi é: " << PI << endl;
+        cout << "O valor do raio é: " << raio << endl;
+        cout << "O valor da circunferência é: " << circunferencia << endl;
+        cout << "A velocidade da luz é: " << VELOCIDADE_DA_LUZ << " m/s" << endl;
+        cout << "A largura da tela é: " << LARGURA << " pixels" << endl;
+        cout << "A altura da tela é: " << ALTURA << " pixels" << endl;
+
     return 0;
 }
