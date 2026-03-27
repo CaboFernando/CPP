@@ -7,3 +7,4 @@ Repositório usado para estudos e evolução dos meus conhecimentos em c++
 #### - Opeçãoes artiméticas
 #### - Conversão de tipos de dados
 #### - Inputs de dados
+#### - Funções úteis
