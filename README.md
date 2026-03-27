@@ -6,3 +6,4 @@ Repositório usado para estudos e evolução dos meus conhecimentos em c++
 #### - Configuração e utilização de types e usings
 #### - Opeçãoes artiméticas
 #### - Conversão de tipos de dados
+#### - Inputs de dados
