@@ -8,3 +8,4 @@ Repositório usado para estudos e evolução dos meus conhecimentos em c++
 #### - Conversão de tipos de dados
 #### - Inputs de dados
 #### - Funções úteis
+#### - Calculando hipotenusa de um triângulo retângulo
