@@ -19,3 +19,4 @@ Repositório usado para estudos e evolução dos meus conhecimentos em C++
 | 12 | Operador Ternário |
 | 13 | Operadores Lógicos |
 | 14 | Conversao de Temperaturas |
+| 15 | Métodos úteis em C++ |
