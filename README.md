@@ -15,3 +15,4 @@ Repositório usado para estudos e evolução dos meus conhecimentos em C++
 | 8  | Calculando hipotenusa de um triângulo retângulo |
 | 9  | Condicional IF |
 | 10 | Condicional Switch |
+| 11 | Calculadora Simples |
