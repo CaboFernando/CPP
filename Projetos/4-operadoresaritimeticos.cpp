@@ -33,13 +33,13 @@ int main()
     estudantesModulo = estudantesModulo % 9; // Calcula o resto da divisão do número de estudantes por 9
     estudantesModulo %= 9; // Calcula o resto da divisão do número de estudantes por 9 usando o operador de atribuição composto
 
-    cout << "O número de estudantes com soma é: " << estudantesSoma << endl;
-    cout << "O número de estudantes com subtração é: " << estudantesSubtracao << endl;
-    cout << "O número de estudantes com multiplicação é: " << estudantesMultiplicacao << endl;
-    cout << "O número de estudantes com divisão é: " << estudantesDivisao << endl;
-    cout << "O número de estudantes com módulo é: " << estudantesModulo << endl;
-    cout << "O número de estudantes com operações aritméticas é: " << estudantesAritmeticos << endl;
-    cout << "O número de estudantes com operações aritméticas e parênteses é: " << estudantesAritmeticosParenteses << endl;
+    cout << "O numero de estudantes com soma e: " << estudantesSoma << endl;
+    cout << "O numero de estudantes com subtracao e: " << estudantesSubtracao << endl;
+    cout << "O numero de estudantes com multiplicacao e: " << estudantesMultiplicacao << endl;
+    cout << "O numero de estudantes com divisao e: " << estudantesDivisao << endl;
+    cout << "O numero de estudantes com modulo e: " << estudantesModulo << endl;
+    cout << "O numero de estudantes com operacoes aritmeticas e: " << estudantesAritmeticos << endl;
+    cout << "O numero de estudantes com operacoes aritmeticas e parenteses e: " << estudantesAritmeticosParenteses << endl;
 
     return 0;
 }

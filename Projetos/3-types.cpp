@@ -16,15 +16,15 @@ int main()
     text_t nome1 = "Carlos";
     number_t idade1 = 30;
 
-    cout << "Meu nome é: " << nome1 << endl;
-    cout << "Minha idade é: " << idade1 << endl;
+    cout << "Meu nome e: " << nome1 << endl;
+    cout << "Minha idade e: " << idade1 << endl;
 
     pair_list_u pair_list2;
     text_u nome2 = "Carlos";
     number_u idade2 = 30;
 
-    cout << "Meu nome é: " << nome2 << endl;
-    cout << "Minha idade é: " << idade2 << endl;
+    cout << "Meu nome e: " << nome2 << endl;
+    cout << "Minha idade e: " << idade2 << endl;
 
     return 0;
 }
