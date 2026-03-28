@@ -16,3 +16,4 @@ Repositório usado para estudos e evolução dos meus conhecimentos em C++
 | 9  | Condicional IF |
 | 10 | Condicional Switch |
 | 11 | Calculadora Simples |
+| 12 | Operador Ternário |
