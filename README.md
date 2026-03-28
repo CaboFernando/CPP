@@ -14,3 +14,4 @@ Repositório usado para estudos e evolução dos meus conhecimentos em C++
 | 7  | Funções úteis |
 | 8  | Calculando hipotenusa de um triângulo retângulo |
 | 9  | Condicional IF |
+| 10 | Condicional Switch |
