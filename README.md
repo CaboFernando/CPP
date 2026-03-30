@@ -20,3 +20,4 @@ Repositório usado para estudos e evolução dos meus conhecimentos em C++
 | 13 | Operadores Lógicos |
 | 14 | Conversao de Temperaturas |
 | 15 | Métodos úteis em C++ |
+| 16 | While |
