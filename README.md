@@ -23,3 +23,4 @@ Repositório usado para estudos e evolução dos meus conhecimentos em C++
 | 16 | While |
 | 17 | Do While |
 | 18 | For |
+| 19 | Break e Continue |
