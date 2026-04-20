@@ -29,3 +29,4 @@ Repositório usado para estudos e evolução dos meus conhecimentos em C++
 | 22 | Generador de Eventos Aleatórios |
 | 23 | Criando Jogo de Adivinhar o Número |
 | 24 | Funções em C++ |
+| 25 | Retornos em C++ |
