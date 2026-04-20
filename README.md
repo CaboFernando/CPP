@@ -31,3 +31,4 @@ Repositório usado para estudos e evolução dos meus conhecimentos em C++
 | 24 | Funções em C++ |
 | 25 | Retornos em C++ |
 | 26 | Sobrecargas de Funções em C++ |
+| 27 | Scope em C++ |
