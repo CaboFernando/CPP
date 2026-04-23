@@ -33,3 +33,4 @@ Repositório usado para estudos e evolução dos meus conhecimentos em C++
 | 26 | Sobrecargas de Funções em C++ |
 | 27 | Scope em C++ |
 | 28 | Sistema Bancário |
+| 29 | Jogo Pedra Papel e Tesoura (JoKenPo) |
